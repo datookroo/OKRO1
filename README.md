@@ -1,2 +1,3 @@
 # Okro-s-Recipes
-Hello to the Recipes site, you can see the several recipes
+Welcome to the Recipes website,this is my first mini-mini HTML test project.
+You can see a several recipes
